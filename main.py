@@ -38,20 +38,19 @@ from rocks import (
 
 
 REPO = """━━━━━━━━━━━━━━━━━━━━━━━━
-💥 A ᴘᴏᴡᴇʀғᴜʟ ᴜsᴇʀʙᴏᴛ
-ᴏғ ♻️ ᴅʀ ᴀsᴀᴅ ᴀʟɪ 🔥
-━━━━━━━━━━━━━━━━━
-ᴜsᴇʀʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴠᴄ ᴄʜᴀᴛ...
+A powreful userbot of Vüsal Məmmədov ━━━━━━━━━━━━━━━━━
+telegram qrupları vc chat üçün userbot...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ [𝐂𝐫𝐞𝐚𝐭𝐨𝐫] @Dr_Asad_Ali
-┣★ [𝐇𝐞𝐚𝐫𝐭]     @Give_Me_Heart
-┣★ [𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬] @AsadSupport)
-┣★ [𝐎𝐮𝐫 𝐅𝐞𝐝] @Part_Of_Rocks)
-┣★ [𝐆𝐫𝐨𝐮𝐩] @Shayri_Music_Lovers)
+┣★ [𝐂𝐫𝐞𝐚𝐭𝐨𝐫] @Vusaldidaa
+┣★ [Sahibə] Yoxdu
+┣★ [Kanal] @yoxdu)
+┣★ [Boş] yoxdu)
+┣★ [𝐆𝐫𝐨𝐮𝐩] @LyuksMekan)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 
-IF HAVE ANY QUESTION OR WANT REPO THEN CONTACT » TO » MY » [OWNER] @Dr_Asad_Ali"""
+
+ƏGƏR SUALINIZ VƏ YA REPO İSTƏYİRSİNİZSƏ » » MƏNİM » [SAHİBİM] İLƏ ƏLAQƏ EDİN @Vusaldidaa """
 
 
 @app.on_message(
